@@ -11,3 +11,4 @@ function foo(a) {
 }
 
 foo( 2 ); // a, 4, 12 
+// comment
