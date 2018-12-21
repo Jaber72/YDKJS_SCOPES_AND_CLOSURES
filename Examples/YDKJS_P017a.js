@@ -1,5 +1,5 @@
 function foo(str, a) {
-  eval( str);
+  eval( str); // this executes the string as if it was code.
   console.log( a,b );
 }
 
